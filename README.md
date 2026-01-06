@@ -1,79 +1,85 @@
-# XAR — Animated Series Project
+# XAR — Open Source Animated Series
 
-> A story-driven animated project set in the XAR universe.  
-> Open-source. Atmospheric. Character-focused.
+XAR is an independent open-source animated series project created for educational and creative purposes.
 
----
-
-##  About the Project
-
-**XAR** is an independent animated series project built around an original universe of covert operations, moral ambiguity, and deeply human characters.
-
-The story follows a small operative team working for **XAR (X-Agency of Response)** — an unofficial global organization operating in the shadows.  
-The project focuses not only on action, but on **characters, consequences, media distortion, trust, and loss**.
-
-This repository contains:
-- animation files and scenes  
-- project structure and assets  
-- story-related elements used for production  
-- technical experiments and pipelines  
+The project focuses on atmosphere-driven storytelling, character development, and visual narrative rather than traditional action-heavy formats.
 
 ---
 
-##  Purpose
+## Project Purpose
 
-This project is **open-source** and created for:
+The primary purpose of XAR is:
+- to study and practice animation techniques
+- to experiment with cinematic storytelling
+- to provide an open project others can learn from
+- to serve as a base for derivative or personal projects
 
--  **Learning animation** (timing, staging, atmosphere, cinematography)
--  **Studying storytelling** in animated form
--  **Experimenting with workflows** (Blender / animation tools)
--  **Remixing or improving** the project for personal or educational use
+XAR is not created as a commercial product.
+
+---
+
+## Open Source Philosophy
+
+This project is fully open source.
 
 You are free to:
-- explore the files  
-- learn from the structure  
-- modify, improve, or build your own project based on it  
+- study the project structure and files
+- use the materials for learning and education
+- modify or improve the project
+- create derivative works or your own projects based on it
+
+No payment is required to use or access this project.
 
 ---
 
-##  Open Source Philosophy
+## Non-Commercial Nature
 
-XAR is not a commercial product.  
-It is a **creative playground and learning resource**.
+XAR is a non-commercial project.
 
-Contributions, forks, and experiments are welcome.
+- The author does not sell access to the project
+- There are no paid licenses or restrictions
+- Any financial support is strictly voluntary
 
-If you:
-- want to practice animation  
-- want to study how a narrative project is structured  
-- want to build your own animated series using this as a base  
-
-— this project is for you.
+Optional donations may be accepted to support development, but they are never required.
 
 ---
 
-##  Disclaimer
+## Intended Audience
 
-- This is a **fictional universe**.
-- All characters, organizations, and events are original.
-- The project may contain **dark themes**, but no real-world political statements.
+This repository may be useful for:
+- people learning animation
+- students studying visual storytelling
+- independent creators exploring workflow structure
+- anyone interested in open creative projects
 
----
-
-##  Contributions
-
-You are welcome to:
-- fork the repository  
-- suggest improvements  
-- optimize animation or structure  
-- reuse parts of the project for learning purposes  
-
-If you improve something — feel free to share it back.
+The project may contain unfinished or experimental material.
 
 ---
 
-##  Final Note
+## Content Disclaimer
 
-XAR is made with passion for animation, atmosphere, and storytelling.  
-If it helps you learn, create, or get inspired — then it has already succeeded.
+- All characters, organizations, and events are fictional
+- Any resemblance to real persons or events is coincidental
+- The project may include dark or mature themes
+- The project does not promote real-world violence or political ideology
 
+---
+
+## Contributions
+
+Contributions are welcome but not required.
+
+You may:
+- fork the repository
+- modify it for personal use
+- improve or adapt it in your own projects
+
+There is no obligation to contribute back.
+
+---
+
+## Final Note
+
+XAR is shared openly to encourage learning, experimentation, and creative freedom.
+
+Use it responsibly and create something of your own.
