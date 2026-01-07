@@ -1,6 +1,6 @@
 ## About
 
-**XAR** is an independent, non-commercial, open-source animated series project focused on grounded science-fiction storytelling, psychological tension, and character-driven narrative. The project explores themes of trust, control, responsibility, and the consequences of hidden systems operating beneath the surface of society.
+**XAR** is an independent, non-commercial, open-source animated series project focused on grounded science-fiction storytelling, psychological tension, and character-driven narrative. The project explores themes of **trust, control, responsibility*, and the consequences of hidden systems operating beneath the surface of society.
 
 XAR was created not only as a story, but as a **practical learning environment**. It is structured to reflect a real production pipeline, allowing artists, animators, and developers to study how an animated project evolves from concept and narrative design to visual execution and iteration.
 
